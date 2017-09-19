@@ -30,4 +30,4 @@ require_once ("admin/ay-employees-class.php");
 /**
  * Require core login Class ay_employees_class
  */
-// require_once ("public/ay-employees-public-class.php");
+require_once ("public/ay-employees-public-class.php");
